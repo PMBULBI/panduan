@@ -13,7 +13,7 @@ Kode Referal didapatkan dengan meminta ke wa iteung :
 
 ## Edufair
 
-Nomor Edufair : 6285707142447
+Nomor Edufair : 6285707142447  
 Untuk membuat QR code absensi siswa bisa menggunakan chat berikut: 
 
 ```
