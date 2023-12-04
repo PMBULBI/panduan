@@ -2,7 +2,7 @@
 Panduan Aplikasi PMB V3
 
 ## Referal
-Untuk refereal link yang dibagikan:
+Untuk referal link yang dibagikan:
 ```html
 https://pmb.ulbi.ac.id/auth/#kodereferal
 ```
