@@ -7,4 +7,5 @@ Untuk refereal link yang dibagikan:
 https://pmb.ulbi.ac.id/auth/#kodereferal
 ```
 
-Link Referal didapatkan dengan meminta ke wa iteung :
+Kode Referal didapatkan dengan meminta ke wa iteung :
+[iteung minta referal pmb](http://wa.me/628112000279?text=iteung+referal+pmb)
