@@ -1,5 +1,5 @@
 # panduan
-Panduan Aplikasi PMB V3
+Panduan Aplikasi PMB V3. Aplikasi ini mendukung referal marketing, Virtual Account, dan presensi kegiatan opentable atau marketing lapangan dengan presensi kegiatan.
 
 ## Referal
 Untuk referal link yang dibagikan:
